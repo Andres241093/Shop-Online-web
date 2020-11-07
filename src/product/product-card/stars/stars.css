@@ -1,0 +1,12 @@
+.rating{
+	display: flex;
+	flex-direction: row;
+}
+.ranking{
+	display: flex;
+	flex-direction: column;
+}
+/*STARS*/
+.disabled{
+	display: none;
+}
